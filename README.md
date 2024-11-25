@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241116_chiangrai/20241116_045.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241124_kun_pin/20241124_033.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
